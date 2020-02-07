@@ -9,6 +9,7 @@
   "keywords": [
     "trie"
   ],
+  "repository": "https://github.com/oleiba/nice-trie",
   "author": "oleiba (odedleiba5@gmail.com)",
   "license": "MIT",
   "devDependencies": {
