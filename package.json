@@ -12,6 +12,7 @@
   "author": "oleiba (odedleiba5@gmail.com)",
   "license": "MIT",
   "devDependencies": {
+    "mocha": "^7.0.1",
     "randomstring": "^1.1.5"
   }
 }
