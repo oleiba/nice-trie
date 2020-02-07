@@ -1,0 +1,17 @@
+{
+  "name": "nice-trie",
+  "version": "0.1.0",
+  "description": "Simple Trie data structure implementation in Javascript",
+  "main": "./trie.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "trie"
+  ],
+  "author": "oleiba (odedleiba5@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "randomstring": "^1.1.5"
+  }
+}
